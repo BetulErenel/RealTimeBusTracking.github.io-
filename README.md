@@ -1,4 +1,4 @@
-# RealTimeBusTrackingExersize.github.io-
+# RealTimeBusTracking.github.io-
 
 Description:
 In this exercise, the Map marker starts from the MIT Campus and moves to the Harvard campus by showing actual bus stops on the map. The map is created by using MapBox. 
